@@ -17,8 +17,6 @@ Atualmente trabalho como Desenvolvedor Trainee e venho desenvolvendo projetos, p
   </a>
 </div>
 
-<br>
-
 ##
 
 <div>

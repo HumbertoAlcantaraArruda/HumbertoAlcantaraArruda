@@ -1,4 +1,4 @@
-## <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" width="30" alt="GitHub" style="filter: brightness(0) invert(1);"/> Humberto A. Arruda
+## <img src="https://heroicons.com/icon/code-bracket?style=solid" width="30" alt="Code" style="filter: invert(1);"/> Humberto A. Arruda
 
 **`Desenvolvedor FullStack`**
 

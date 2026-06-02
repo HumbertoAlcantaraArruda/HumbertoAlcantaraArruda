@@ -11,10 +11,12 @@ Atualmente trabalho como Desenvolvedor Trainee e venho desenvolvendo projetos, p
 ##
 
 <div>
-  <a href="https://github.com/HumbertoAlcantaraArruda">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HumbertoAlcantaraArruda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumbertoAlcantaraArruda&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
 </div>
 
 ##

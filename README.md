@@ -1,6 +1,4 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-
-## <i class="fab fa-github" style="color: white;"></i> Humberto A. Arruda
+## <img src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.svg" width="30" alt="Code" style="stroke: white; fill: none;"/> Humberto A. Arruda
 
 **`Desenvolvedor FullStack`**
 

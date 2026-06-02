@@ -1,4 +1,4 @@
-## <img src="https://heroicons.com/icon/code-bracket?style=solid" width="30" alt="Code" style="filter: invert(1);"/> Humberto A. Arruda
+## Humberto A. Arruda
 
 **`Desenvolvedor FullStack`**
 

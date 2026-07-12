@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Humberto Alcântara Arruda 👋</h1>
+<h1 align="center">Humberto Alcântara Arruda</h1>
 
 <p align="center">
   <b>Junior Full-Stack Web Developer @ Data IT</b><br>
@@ -11,14 +11,14 @@
   </a>
 </p>
 
-I build business web applications at a technology consultancy in Brazil, where I was promoted from trainee to junior developer after one year. Currently in the 6th semester of my B.S. in Information Systems at Unoeste (FIPP), graduating in December 2027.
+I build business web applications at a technology consultancy in Brazil. Currently in the 6th semester of my B.S. in Information Systems at Unoeste (FIPP), graduating in December 2027.
 
-- 💻 **Stack:** PHP (Laravel), JavaScript (jQuery, Bootstrap), MySQL, HTML, CSS, Git
-- 🌱 **Currently learning:** React and Vue.js
-- 🌎 **Open to:** remote junior web developer opportunities
-- 📫 **Reach me:** [linkedin.com/in/humbertoarruda](https://www.linkedin.com/in/humbertoarruda/)
+- **Stack:** PHP (Laravel), JavaScript (jQuery, Bootstrap), MySQL, HTML, CSS, Git
+- **Currently learning:** React and Vue.js
+- **Open to:** remote junior web developer opportunities
+- **Contact:** [linkedin.com/in/humbertoarruda](https://www.linkedin.com/in/humbertoarruda/)
 
-## 🛠️ Tech
+## Tech
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -35,9 +35,6 @@ I build business web applications at a technology consultancy in Brazil, where I
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-## 📊 GitHub Stats
+## Featured
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HumbertoAlcantaraArruda&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumbertoAlcantaraArruda&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages">
-</p>
+**[MovieStar](https://github.com/HumbertoAlcantaraArruda/MovieStar)** — Movie catalog web app with search, ratings, and user reviews. Built with vanilla PHP (OOP), MySQL (PDO), and Bootstrap.

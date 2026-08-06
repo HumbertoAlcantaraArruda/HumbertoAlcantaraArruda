@@ -14,7 +14,6 @@
 I build business web applications at a technology consultancy in Brazil. Currently in the 6th semester of my B.S. in Information Systems at Unoeste (FIPP), graduating in December 2027.
 
 - **Stack:** PHP (Laravel), JavaScript (jQuery, Bootstrap), MySQL, HTML, CSS, Git
-- **Currently learning:** React and Vue.js
 - **Contact:** [linkedin.com/in/humbertoarruda](https://www.linkedin.com/in/humbertoarruda/)
 
 ## Tech

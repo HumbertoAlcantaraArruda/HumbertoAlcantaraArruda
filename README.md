@@ -15,7 +15,6 @@ I build business web applications at a technology consultancy in Brazil. Current
 
 - **Stack:** PHP (Laravel), JavaScript (jQuery, Bootstrap), MySQL, HTML, CSS, Git
 - **Currently learning:** React and Vue.js
-- **Open to:** remote junior web developer opportunities
 - **Contact:** [linkedin.com/in/humbertoarruda](https://www.linkedin.com/in/humbertoarruda/)
 
 ## Tech

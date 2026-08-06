@@ -33,7 +33,3 @@ I build business web applications at a technology consultancy in Brazil. Current
 **Learning:**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-
-## Featured
-
-**[MovieStar](https://github.com/HumbertoAlcantaraArruda/MovieStar)** — Movie catalog web app with search, ratings, and user reviews. Built with vanilla PHP (OOP), MySQL (PDO), and Bootstrap.

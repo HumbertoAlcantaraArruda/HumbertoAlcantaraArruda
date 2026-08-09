@@ -1,30 +1,70 @@
-<h1 align="center">Humberto Alcântara Arruda</h1>
+<h1 align="center">
+  Humberto Alcântara Arruda
+  <img src="https://github.com/HumbertoAlcantaraArruda.png" width="45" style="border-radius: 50%; vertical-align: middle;" alt="Humberto Alcântara Arruda" />
+</h1>
 
 <p align="center">
-  <b>Junior Full-Stack Web Developer @ Data IT</b><br>
-  PHP · Laravel · JavaScript · MySQL — Brazil
+  <b>Junior Full-Stack Web Developer</b> @ Data IT<br>
+  <sub>PHP · Laravel · JavaScript · MySQL — Brazil</sub>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/humbertoarruda/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://github.com/HumbertoAlcantaraArruda">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
-I build business web applications at a technology consultancy in Brazil. Currently in the 6th semester of my B.S. in Information Systems at Unoeste (FIPP), graduating in December 2027.
+<br>
 
-- **Stack:** PHP (Laravel), JavaScript (jQuery, Bootstrap), MySQL, HTML, CSS, Git
-- **Contact:** [linkedin.com/in/humbertoarruda](https://www.linkedin.com/in/humbertoarruda/)
+<div align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=HumbertoAlcantaraArruda&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HumbertoAlcantaraArruda&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top languages" />
+</div>
 
-## Tech
+<br>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+## Stack
+
+<p align="center">
+  <sub><b>Languages</b></sub>
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" height="42" alt="PHP" title="PHP" style="margin: 6px 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript" style="margin: 6px 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++" title="C++" style="margin: 6px 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" height="42" alt="C" title="C" style="margin: 6px 10px;" />
+</p>
+
+<p align="center">
+  <sub><b>Frameworks & Libraries</b></sub>
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="42" height="42" alt="Laravel" title="Laravel" style="margin: 6px 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="42" height="42" alt="jQuery" title="jQuery" style="margin: 6px 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42" height="42" alt="Bootstrap" title="Bootstrap" style="margin: 6px 10px;" />
+</p>
+
+<p align="center">
+  <sub><b>Database & Tools</b></sub>
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" title="MySQL" style="margin: 6px 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git" style="margin: 6px 10px;" />
+</p>
+
+<br>
+
+## Building now
+
+<p align="center">
+  <a href="https://github.com/HumbertoAlcantaraArruda/MovieStar">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=HumbertoAlcantaraArruda&repo=MovieStar&theme=dracula&hide_border=true" alt="MovieStar" />
+  </a>
+</p>
+
+<br>
+
+> "The only way to do great work is to love what you do.
+> If you haven't found it yet, keep looking. Don't settle."
+>
+> — Steve Jobs

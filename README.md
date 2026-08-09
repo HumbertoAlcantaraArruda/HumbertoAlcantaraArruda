@@ -1,5 +1,5 @@
 <h1 align="center">
-  Humberto Alcântara Arruda
+  <span style="vertical-align: middle;">Humberto Alcântara Arruda</span>
   <img src="https://github.com/HumbertoAlcantaraArruda.png" width="45" style="border-radius: 50%; vertical-align: middle;" alt="Humberto Alcântara Arruda" />
 </h1>
 
@@ -12,6 +12,7 @@
   <a href="https://www.linkedin.com/in/humbertoarruda/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/HumbertoAlcantaraArruda">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
@@ -32,8 +33,11 @@
   <sub><b>Languages</b></sub>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" height="42" alt="PHP" title="PHP" style="margin: 6px 10px;" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript" style="margin: 6px 10px;" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++" title="C++" style="margin: 6px 10px;" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" height="42" alt="C" title="C" style="margin: 6px 10px;" />
 </p>
 
@@ -41,7 +45,9 @@
   <sub><b>Frameworks & Libraries</b></sub>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="42" height="42" alt="Laravel" title="Laravel" style="margin: 6px 10px;" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="42" height="42" alt="jQuery" title="jQuery" style="margin: 6px 10px;" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42" height="42" alt="Bootstrap" title="Bootstrap" style="margin: 6px 10px;" />
 </p>
 
@@ -49,6 +55,7 @@
   <sub><b>Database & Tools</b></sub>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" title="MySQL" style="margin: 6px 10px;" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git" style="margin: 6px 10px;" />
 </p>
 

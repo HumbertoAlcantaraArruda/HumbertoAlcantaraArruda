@@ -1,4 +1,4 @@
-<h1 align="center">Humberto Alcântara Arruda <img src="https://images.weserv.nl/?url=github.com/HumbertoAlcantaraArruda.png&mask=circle&w=90" width="32" align="top" alt="Humberto Alcântara Arruda" /></h1>
+<h1 align="center">Humberto Alcântara Arruda</h1>
 
 <p align="center">
   <b>Junior Full-Stack Web Developer</b> @ Data IT<br>

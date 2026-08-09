@@ -1,7 +1,4 @@
-<h1 align="center">
-  <span style="vertical-align: middle;">Humberto Alcântara Arruda</span>
-  <img src="https://github.com/HumbertoAlcantaraArruda.png" width="45" style="border-radius: 50%; vertical-align: middle;" alt="Humberto Alcântara Arruda" />
-</h1>
+<h1 align="center">Humberto Alcântara Arruda <img src="https://images.weserv.nl/?url=github.com/HumbertoAlcantaraArruda.png&mask=circle&w=90" width="45" align="middle" alt="Humberto Alcântara Arruda" /></h1>
 
 <p align="center">
   <b>Junior Full-Stack Web Developer</b> @ Data IT<br>
@@ -9,13 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/humbertoarruda/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <a href="https://www.linkedin.com/in/humbertoarruda/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/HumbertoAlcantaraArruda">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+  <a href="https://github.com/HumbertoAlcantaraArruda"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 <br>
@@ -64,9 +57,7 @@
 ## Building now
 
 <p align="center">
-  <a href="https://github.com/HumbertoAlcantaraArruda/MovieStar">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=HumbertoAlcantaraArruda&repo=MovieStar&theme=dracula&hide_border=true" alt="MovieStar" />
-  </a>
+  <a href="https://github.com/HumbertoAlcantaraArruda/MovieStar"><img src="https://github-stats-extended.vercel.app/api/pin/?username=HumbertoAlcantaraArruda&repo=MovieStar&theme=dracula&hide_border=true" alt="MovieStar" /></a>
 </p>
 
 <br>

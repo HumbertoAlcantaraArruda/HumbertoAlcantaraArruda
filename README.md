@@ -1,4 +1,4 @@
-<h1 align="center">Humberto Alcântara Arruda <img src="https://images.weserv.nl/?url=github.com/HumbertoAlcantaraArruda.png&mask=circle&w=90" width="45" align="middle" alt="Humberto Alcântara Arruda" /></h1>
+<h1 align="center">Humberto Alcântara Arruda <img src="https://images.weserv.nl/?url=github.com/HumbertoAlcantaraArruda.png&mask=circle&w=90" width="32" align="top" alt="Humberto Alcântara Arruda" /></h1>
 
 <p align="center">
   <b>Junior Full-Stack Web Developer</b> @ Data IT<br>
@@ -25,6 +25,7 @@
 <p align="center">
   <sub><b>Languages</b></sub>
   <br>
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" height="42" alt="PHP" title="PHP" style="margin: 6px 10px;" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript" style="margin: 6px 10px;" />
@@ -37,6 +38,7 @@
 <p align="center">
   <sub><b>Frameworks & Libraries</b></sub>
   <br>
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="42" height="42" alt="Laravel" title="Laravel" style="margin: 6px 10px;" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="42" height="42" alt="jQuery" title="jQuery" style="margin: 6px 10px;" />
@@ -46,6 +48,7 @@
 
 <p align="center">
   <sub><b>Database & Tools</b></sub>
+  <br>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" title="MySQL" style="margin: 6px 10px;" />
   &nbsp;&nbsp;

@@ -60,7 +60,7 @@
 ## Building now
 
 <p align="center">
-  <a href="https://github.com/HumbertoAlcantaraArruda/MovieStar"><img src="https://github-stats-extended.vercel.app/api/pin/?username=HumbertoAlcantaraArruda&repo=MovieStar&theme=dracula&hide_border=true" alt="MovieStar" /></a>
+  <a href="https://github.com/HumbertoAlcantaraArruda/Monitor-Xml"><img src="https://github-stats-extended.vercel.app/api/pin/?username=HumbertoAlcantaraArruda&repo=Monitor-Xml&theme=dracula&hide_border=true" alt="Monitor-Xml" /></a>
 </p>
 
 <br>

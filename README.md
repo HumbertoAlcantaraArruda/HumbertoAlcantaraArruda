@@ -57,14 +57,6 @@
 
 <br>
 
-## Building now
-
-<p align="center">
-  <a href="https://github.com/HumbertoAlcantaraArruda/Monitor-Xml"><img src="https://github-stats-extended.vercel.app/api/pin/?username=HumbertoAlcantaraArruda&repo=Monitor-Xml&theme=dracula&hide_border=true" alt="Monitor-Xml" /></a>
-</p>
-
-<br>
-
 > "The only way to do great work is to love what you do.
 > If you haven't found it yet, keep looking. Don't settle."
 >
